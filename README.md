@@ -7,11 +7,10 @@
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Mhosam&count_private=true&theme=radical)
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Mhosam&theme=radical)
-<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=moustafaatef&layout=compact&count_private=true&langs_count=10&count_private=true&show_icons=true&theme=radical) -->
 <!-- <br> -->
 [![wakatime](https://wakatime.com/badge/user/018d40ce-c9cc-4758-97b2-52dab1a885ed.svg)](https://wakatime.com/@018d40ce-c9cc-4758-97b2-52dab1a885ed)
 <br>
-[![Moustafa Atef's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Mhosam)](https://github.com/anuraghazra/github-readme-stats)
+[![Mohamed Hosam's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Mhosam)](https://github.com/anuraghazra/github-readme-stats)
 <br>
 [![trophy](https://github-profile-trophy.vercel.app/?username=Mhosam&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
 
@@ -22,12 +21,10 @@
 
 ### Some of the languages I use daily.
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
-![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 
 ### My favorate OS's I use
 ![Mac OS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)
